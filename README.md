@@ -1,4 +1,7 @@
-# pandashomework
+# VideoGame Data Trends
+
+This is is a jupyter notebook with exploration of a data set involving in-game purchases from certain users, as well as information about 
+the age and gender of the users.  
 
 Three trends I noticed in the data were all pretty predictable. 
 Male users were the vast majority of the player base and as a result spent a lot more money than
